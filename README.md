@@ -411,9 +411,6 @@ The metrics, insights, and UI layers require no changes. The `compute_kpi_bundle
 
 ---
 
-## Interview Talking Points
-
-If you're presenting this in a PM or product analytics interview:
 
 **On the product thesis:**
 "The insight that mattered wasn't that habitual users retained better — that's obvious. The insight was that discount-acquired users mask the problem at D7. You only see the retention gap at W4, and only if you segment by acquisition channel. Standard cohort cuts hide it."
