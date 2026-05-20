@@ -183,9 +183,6 @@ Intervention Logic
 
 ## Screenshots
 
-> *Add dashboard screenshots here after running the app locally.*
-> *Recommended captures: Retention Overview KPI row, Habit Formation Funnel, Lifecycle donut, Intervention Engine queue.*
-
 ```
 screenshots/
 ├── 01_retention_overview.png
